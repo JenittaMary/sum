@@ -10,7 +10,7 @@ Scanner  in=new Scanner(System.in);
 y=in.nextInt();
 z=x+y;
 System.out.println(" Addition is:"+z);
-System.out.println(" Thank You");
+
 in.close();
 
 	}
