@@ -10,7 +10,7 @@ public class Add {
 		y = in .nextInt();
 		z = x + y;
 		System.out.println(" Addition is:" + z);
-		System.out.println(" Thank You"); in .close();
+		
 		System.out.println(" I added a new line here");
 	}
 
